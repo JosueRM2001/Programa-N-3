@@ -52,6 +52,12 @@ https://github.com/JosueRM2001/Programa-N-3.git
 Open the project with Visual Estudio Code (you must have VisualEstudio Code installed, if possible the most recent version).
 
 - *Step #3*
+- Open the visual studio code terminal and run the following command:
+  
+  pip install flask
+
+
+- *Step #4*
 
 Install the following extensions in Visual Estudio Code:
 
