@@ -44,6 +44,7 @@ docker run -d -p 5000:5000 --name python erickjrm/programpython:latest
 Open the Docker Desktop to see if the image is created correctly and send it to run to view.
 
 - *Step #5*
+  
 **Acces the application**: Is running you can accces the applicaction by to the
 
 following url in your web browser: http://localhost:5000
